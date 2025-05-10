@@ -41,7 +41,7 @@
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" alt="Discord"/>
   </a>
     <a href="mailto:virzarizky@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="40" alt="Gmail"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" alt="Gmail"/>
   </a>
   <a href="https://github.com/VirzaPixel" target="_blank">
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub"/>
