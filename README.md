@@ -44,6 +44,6 @@
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail"/>
   </a>
   <a href="https://github.com/VirzaPixel" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/000000" width="40" alt="GitHub"/>
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub"/>
   </a>
 </p>
