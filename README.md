@@ -12,18 +12,15 @@
 </p>
 
 ---
-
-<h3 align="">📫 Connect with me</h3>
-
-<p align="center">
-  <a href="https://discord.com/users/pozapitza" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" alt="Discord"/>
-  </a><br>
-  <sub>Discord: <b>VirzaPixel</b></sub>
-</p>
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirzaPixel&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
+</p>
+---
+
+<h3 align="center">📫 Connect with me</h3>
+
+<p align="center">
+  <a href="https://discord.com/users/pozapitza" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
