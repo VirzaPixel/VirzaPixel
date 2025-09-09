@@ -6,11 +6,6 @@
 
 <h3 align="center">I'm Student from Indonesia.</h3>
 
-<p align="center">
-  🔭 I’m a tech enthusiast who enjoys learning and building cool stuff with code.<br>
-  🌱 Currently learning how to build Android apps, create websites, and get started with cyber security.
-</p>
-
 ---
 
 <p align="center">
