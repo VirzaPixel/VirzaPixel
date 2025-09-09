@@ -4,8 +4,6 @@
 
 <h1 align="center">Well well well 👋, I'm Virza !</h1>
 
-<h3 align="center">I'm Student from Indonesia.</h3>
-
 ---
 
 <p align="center">
