@@ -6,13 +6,9 @@
 
 ---
 
-<p align="center">
-</p>
-
 ## 🚀 Bahasa Pemrograman Teratas
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VirzaPixel&layout=compact)
-
 
 ---
 
