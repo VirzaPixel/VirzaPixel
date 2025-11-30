@@ -7,11 +7,12 @@
 ---
 
 <p align="center">
-  <img 
-    src="https://aa-bice-five.vercel.app/api/top-langs/?username=VirzaPixel&layout=compact&theme=tokyonight" 
-    alt="Most Used Languages"
-  />
 </p>
+
+## 🚀 Bahasa Pemrograman Teratas
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VirzaPixel&layout=compact)
+
 
 ---
 
