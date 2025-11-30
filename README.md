@@ -6,10 +6,10 @@
 
 ---
 
-## 🚀 Bahasa Pemrograman Teratas
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VirzaPixel&layout=compact)
-
+<a href="https://github.com/VirzaPixel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirzaPixel&layout=compact&theme=tokyonight&langs_count=8" />
+</a>
+  
 ---
 
 <h3 align="center">📫 Connect with me</h3>
