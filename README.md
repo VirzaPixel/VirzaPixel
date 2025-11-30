@@ -7,7 +7,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirzaPixel&layout=compact&theme=tokyonight&cache_seconds=0&count_private=true](https://gh-readme-stats-steel.vercel.app/api/top-langs/?username=VirzaPixel&layout=compact&theme=tokyonight)" alt="Most Used Languages"/>
+  <img 
+    src="https://aa-bice-five.vercel.app/api/top-langs/?username=VirzaPixel&layout=compact&theme=tokyonight" 
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
