@@ -6,14 +6,7 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/VirzaPixel">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirzaPixel&layout=compact&theme=tokyonight&langs_count=8"
-      alt="Most Used Languages"
-    />
-  </a>
-</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VirzaPixel)
 
 ---
 
