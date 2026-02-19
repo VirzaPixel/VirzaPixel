@@ -9,7 +9,7 @@
 <table align="center" border="0">
   <tr>
     <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=VirzaPixel&show_icons=true&theme=tokyonight" alt="Stats de Luis" />
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=torvalds&show_icons=true&theme=tokyonight" alt="Stats de Luis" />
     </td>
     <td align="center" valign="top">
       <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mdo&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
