@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/VirzaPixel/VirzaPixel/main/assets/vinland.gif" alt="Vinland Saga" width="500"/>
 </p>
 
-<h1 align="center">Well well well 👋, I'm Virza!</h1>
+<h1 align="center">Well well well 👋, I'm Virza!</h1
 
 ---
 
@@ -12,7 +12,7 @@
       <img src="https://github-readme-stats-one-bice.vercel.app/api?username=VirzaPixel&show_icons=true&theme=tokyonight" alt="Stats de Luis" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=khannedy&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
     </td>
   </tr>
 </table>
