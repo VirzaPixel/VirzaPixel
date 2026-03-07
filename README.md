@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/VirzaPixel/VirzaPixel/main/assets/vinland.gif" alt="Vinland Saga" width="500"/>
 </p>
 
-<h1 align="center">Well well well 👋, I'm Virza!</h1
+<h1 align="center">Well well well 👋, I'm VirzaAAZ!</h1
 
 ---
 
